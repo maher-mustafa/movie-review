@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-review/static/css/main.2088bba5.css",
+    "main.js": "/movie-review/static/js/main.0a1ca759.js",
+    "index.html": "/movie-review/index.html",
+    "main.2088bba5.css.map": "/movie-review/static/css/main.2088bba5.css.map",
+    "main.0a1ca759.js.map": "/movie-review/static/js/main.0a1ca759.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2088bba5.css",
+    "static/js/main.0a1ca759.js"
+  ]
+}
